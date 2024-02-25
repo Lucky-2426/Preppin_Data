@@ -1,6 +1,6 @@
 # Preppin' Data challenges
 
-This repository contains my personal solutions for the Preppin'Data weekly challenges **[Preppin' Data](https://preppindata.blogspot.com/)**. The challenge has been initiated by Jenny Martin, Jonathan Allenby and Tom prowse and consists of weekly data preparation challenges.
+This repository contains my personal solutions for the Preppin'Data weekly challenges **[Preppin' Data](https://preppindata.blogspot.com/p/the-challenge-index.html)**. The challenge has been initiated by Jenny Martin, Jonathan Allenby and Tom prowse and consists of weekly data preparation challenges.
 
 My solutions are grouped per year. 
 In each year folder, you will find weekly folder with challenge and solutions.
